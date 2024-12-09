@@ -16,14 +16,24 @@
 
 🛠️ Projects:
 
+🛰️ Google Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for Google for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/aishuvinod/Google-Aftershoot-BTTAI-Project
+
 🌐 Command and Control Framework | Secure C2 communication with TLS & encryption.
+
+
 🔒 Phishing Detection AI | Achieved 98.9% precision for phishing email detection.
+
+
 📈 Predictive Models | Using ML for credit risk, financial wellness, and cybersecurity ROI.
 
 📚 Certifications:
+
+
 CompTIA Security+, AWS Cloud Practitioner | Next Up: Network+ & CySA+
 
 🌟 Community:
+
+
 - E-board member @ NU Security
 - WiCyS Scholarship Recipient
 - Attended DEFCON, BSides, Boston Security Meetups, and FS-ISAC Americas Summit
