@@ -1,7 +1,11 @@
 # README
 
 👋 Hi, I’m Aishwarya Vinod (Aishu)!
+
+
 🎓 Senior @ Northeastern University | Cybersecurity & Business Major
+
+
 💻 Passionate about securing systems, solving problems, and driving innovation.
 
 ✨ What I Do:
